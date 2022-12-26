@@ -42,24 +42,7 @@
  
         <a href="html/contact.html">Contact us</a>
         <a href="./html/aboutus.html">About </a>
-        <div style="padding:15px;" class="dropdown">
-            <button onmouseover="my()" class="dropbtn">site map <i class="fa fa-angle-down text-white"></i></button></span>
-            <div id="myDrop"  class="dropdown-content">
-                <a href="index.html">Home</a>
-                <a href="html/hotel.html">Places</a>
-                <a href="html/hotel.html">Hotels</a>
-                <a href="html/Restaurant.html">Restaurants</a>
-                <a href="html/Malls.html">Malls </a>
-                <a href="html/historical.html">Historicals</a>
-
-                <a href="html/Sea Sides.html">Sea Sides </a>
-                <a href="html/parks.html">Parks</a>           
-                     <a href="html/contact.html">Contact us</a>
-                     <a href="html/aboutus.html">About</a>
-
-
-            </div>
-        </div>
+     
         <a href="https://www.facebook.com/ExploreKarachi007/" target="_blank"><i class="fab fa-facebook" style="font-size: 25px; "></i></a>
         <a href="https://www.instagram.com/xplore_karachi/"target="_blank"><i class="fab fa-instagram" style="font-size: 25px; "></i></a>
         <a href="https://twitter.com/explore_karachi?lang=en"target="_blank"><i class="fab fa-twitter" style="font-size: 25px;"></i></a>
