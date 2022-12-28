@@ -19,3 +19,6 @@ Route::get('/', function () {
 Route::get('/home', function () {
     return view('main.home');
 });
+Route::get('/layout', function () {
+    return view('RestaurantDasboard.layout');
+});

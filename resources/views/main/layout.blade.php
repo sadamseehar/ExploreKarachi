@@ -7,9 +7,8 @@
     <title>Explore Karachi</title>
     <link rel="icon" type="image/png" sizes="16x16" href="images/mazar-e-quaid (1).png">
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
-
     <!-- font awesome cdn link  -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
     <!-- custom css file link  -->
     <link rel="stylesheet" href="../main/style.css">
     <link rel="icon" type="image/png" sizes="16x16" href="../main/images/mazar-e-quaid (1).png">
@@ -28,7 +27,7 @@
         <a href="#home">Home</a>
               
 <div style="padding:15px;" class="dropdown">
-    <button onmouseover="myFunction()" class="dropbtn">places <i class="fa fa-angle-down text-white"></i></button></span>
+    <button onmouseover="myFunction()" class="dropbtn">places <i class="fa fa-solid text-white"></i></button></span>
     <div id="myDropdown"  class="dropdown-content">
         <a href="html/hotel.html">Hotels</a>
         <a href="html/Restaurant.html">Restaurants</a>

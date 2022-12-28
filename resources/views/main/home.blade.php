@@ -80,7 +80,7 @@
     <div class="box-container">
 
         <div class="box">
-            <img src="images/quaid.jpg" alt="">
+            <img src="../main/images/quaid.jpg" alt="">
             <div class="content">
                 <h3>Quaid-e-Azam Museum</h3>
                 <p>The Quaid-e-Azam House, also known as Flagstaff House, is a museum dedicated to the personal life of Muhammad Ali Jinnah, the founder of Pakistan. Located in Karachi, Sindh, Pakistan, it was designed by British architect Moses Somake.In 1984, it was converted into the Flagstaff House Museum of Jinnah</p>
